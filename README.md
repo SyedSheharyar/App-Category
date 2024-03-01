@@ -1,5 +1,2 @@
 # App-Category
-This is my new project "App Category"
-I have the data of google play store in which i do some cleaning.
-Also I have do some EDA to get some insights about the apps 
-The bar plots is show the insights about the data geners and reviews category
+ In this project, our goal is to figure out what types if apps tend to be popular on the Google Play Store. We work for a company that make free apps and earns money through ads. By understanding which app categories are in high demand, we can help our developers create apps that attract more user and generate more revenue. We’ll analyze data from the Google Play Store to identify patterns and preferences among user. This way, we can make smarter decisions about the kinds of apps we develop. 
